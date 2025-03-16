@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning PySpark, C++ for AWS CPP<br>🎯 Goals: Become a Data Engineer</p>
+<p align="left">📚 I'm currently learning PySpark, C++ for AWS CPP<br>🎯 Goals: Become a Data Engineer<br>👻 Check this out!: https://www.codewars.com/users/kauflandzik</p>
 
 ###
 
