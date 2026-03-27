@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning PySpark, Java<br>🎯 Goals: Become a Data Engineer<br>👻 Check this out!: https://www.codewars.com/users/kauflandzik</p>
+<p align="left">📚 I'm currently learning: PySpark<br>🎯 Goals: Become a Data Scientist<br>👻 Check this out!: https://www.codewars.com/users/kauflandzik</p>
 
 ###
 
